@@ -1,4 +1,8 @@
 # rural_health_index
+Constructing a Rural Healthcare Index 
+Guide: Prof. Shyamsundar Sahoo, Department of Statistics, Haldia Government College
+
+Key points:
 • Constructing an index to compare rural healthcare system condition of India
 • To rank different states of India based on their rural healthcare system
 • There is no as such index dedicated for rural healthcare only
